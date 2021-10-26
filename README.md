@@ -1,1 +1,1 @@
-# joy-of-coding-day1
+# joy-of-coding-day-1
